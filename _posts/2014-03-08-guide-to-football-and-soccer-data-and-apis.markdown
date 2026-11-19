@@ -900,7 +900,7 @@ Their prices range from $25 for the european plan to $50 for worldwide plan. [He
 <a name="oddsrelay"></a>
 #### OddsRelay
 
-[OddsRelay](https://oddsrelay.io) is a REST API of pre-match odds from 60+ UK and Irish bookmakers, bet365 included, with each back price beside the best lay on Betfair, Smarkets and Matchbook and the liquidity there. Replies are JSON from one keyed API, with a public OpenAPI file and Python, JavaScript and R clients. Paid plans, and Free gives you 50,000 tokens for 14 days from sign-up. Docs: https://oddsrelay.io/docs
+[OddsRelay](https://oddsrelay.io) is a REST API of odds from 250+ bookmakers live in the UK & Ireland and 20 more regions, pre-match and in-play, with historical odds as their own product. In the UK & Ireland bet365 is included, and each price also comes beside the lay on Betfair, Smarkets and Matchbook with the liquidity available. Football is one of the sports it covers. Replies are JSON from one keyed API, with a public OpenAPI file and Python and JavaScript clients. Paid plans, and a Free plan of 50,000 tokens for 14 days on sign-up. Docs: https://oddsrelay.io/docs
 
 <a name="other"></a>
 ###  Other Websites
